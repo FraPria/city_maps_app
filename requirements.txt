@@ -2,4 +2,3 @@ streamlit
 osmnx
 io
 matplotlib
-
