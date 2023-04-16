@@ -1,8 +1,8 @@
-# Maps app
+# City maps app
 
 <p float="left">
-  <img src="images/print_eindhoven.png" width="200" />
-  <img src="images/Torino_green.png" width="200" /> 
+  <img src="images/eindhoven.png" width="200" />
+  <img src="images/torino.png" width="200" /> 
   <img src="images/barcelona.png" width="200" />
   <img src="images/paris.png" width="200" />
 </p>

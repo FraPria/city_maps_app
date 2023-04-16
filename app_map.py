@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar 15 21:29:17 2023
-
 @author: Francesca Priante
 """
 
@@ -79,10 +77,12 @@ st.set_page_config(page_title="Cool Maps", page_icon=":burrito:") #  📹
 st.markdown("# Cool maps")
 st.markdown(
 """
-Thanks to [OSMnx package](https://github.com/gboeing/osmnx) it is now possible to create wornderful maps just giving the city name or adress as input.
-You can also choose the background and streets colors.
+Insert the address of the city of your interest and create minimalist maps.
+You can also choose the background and streets colors. Then download it with the PDF button.
 
-App developed with Streamlit by [Francesca Priante](https://frapria.github.io/)
+Keep in mind that it can take few minutes to display the map depending on how complex the city is. So the higher the radius, the slower it can be.
+
+App developed with [Streamlit](https://github.com/streamlit/streamlit) and [OSMnx package](https://github.com/gboeing/osmnx) by [Francesca Priante](https://frapria.github.io/)
 """
 )
     
