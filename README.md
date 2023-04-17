@@ -1,10 +1,10 @@
 # City maps app
 
 <p float="left">
-  <img src="images/eindhoven.png" width="200" />
-  <img src="images/torino.png" width="200" /> 
-  <img src="images/barcelona.png" width="200" />
-  <img src="images/paris.png" width="200" />
+  <img src="images/eindhoven.png" width="400" />
+  <img src="images/torino.png" width="400" /> 
+  <img src="images/barcelona.png" width="400" />
+  <img src="images/paris.png" width="400" />
 </p>
 
 
