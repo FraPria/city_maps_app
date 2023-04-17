@@ -10,7 +10,7 @@ This is a Streamlit app to easily create a nice city map images, downloadable as
 </p>
 
 
-The app is running on [Huggin Face](https://huggingface.co/spaces/Priante/city_maps_app), but you can also run it locally with the instruction at the bottom of the page.
+The app is running on [Hugging Face](https://huggingface.co/spaces/Priante/city_maps_app), but you can also run it locally with the instruction at the bottom of the page.
 
 You can choose the background and streets colors, the radius length. If you like the displayed preview you can just download the PDF pressing the download button.
 
